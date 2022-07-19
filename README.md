@@ -4,9 +4,9 @@ The following is a link to all lectures given during the Spring 2022 offering of
 
 | Topic | Video Lecture |
 |-------|---------------|
-|Welcome, Problem-Solving, & CS Job Hunting | https://www.youtube.com/watch?v=E2Tf0fUKN6Y 
-Pseudocode & Recursion |	https://www.youtube.com/watch?v=KWLjoS4jfFk
-Measuring Performance I	| https://www.youtube.com/watch?v=nwk2v3knaxI
+|Welcome, Problem-Solving, & CS Job Hunting (remote due to COVID) | https://www.youtube.com/watch?v=E2Tf0fUKN6Y 
+Pseudocode & Recursion (remote due to COVID) |	https://www.youtube.com/watch?v=KWLjoS4jfFk
+Measuring Performance I	(remote due to COVID) | https://www.youtube.com/watch?v=nwk2v3knaxI
 Measuring Performance II	| https://www.youtube.com/watch?v=zz3eXN-5cxE
 Algorithms using Stacks, Queues, Sets & Maps |	https://www.youtube.com/watch?v=WHtoZnCaQDg
 Algorithms using Heaps | https://www.youtube.com/watch?v=lgw_v50L2iQ

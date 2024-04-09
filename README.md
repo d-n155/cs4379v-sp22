@@ -28,3 +28,6 @@ Exhaustive Search & Backtracking I |	https://www.youtube.com/watch?v=d0dThfnfTug
 Exhaustive Search & Backtracking II |	https://www.youtube.com/watch?v=p9JTSEFzcpw
 P, NP, and More	| https://www.youtube.com/watch?v=QcVbfUyJurQ
 Approximation Algorithms | https://www.youtube.com/watch?v=D9bubL7jtwY
+
+Slides: 
+https://drive.google.com/drive/folders/1nsKJ25VKvlhpHxd_3bnYw8PBo3jcQ_4b?usp=drive_link
